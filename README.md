@@ -13,15 +13,23 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="550" height="400"/>
 </div>
 
+---
+
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+Hi there! My name is Daniel Khan and I am a highly motivated Backend Developer. I enjoy making connections: be them from different disciplines, people from different teams and cultures, or applications from different industries. I have strong technical skills, a ambitious work ethic, and a professional background in engineering, problem solving, and customer service. I have always considered myself a jack of all trades. I love learning about novel concepts and new and better ways of doing things.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+I have a passion for working to improve business optimization and efficiency. I also take pride in my ability to communicated complex ideas to non-technical stakeholders. I am able to quickly translate across verticals to produce solutions and value.
+
+  - 💪 Proficient: ​ Java, DynamoDb, Lambda, JUnit, Dagger
+  - 👌 Knowledgeable: ​PostgreSQL, Springboot, S3, API Gateway, RSLogix5000, RSLogix500
+  - 👍 Familiar: ​ JavaScript, React.js, HTML, CSS, IAM, CloudWatch, OpenAPI, UML
+
+ 📫 Email: dkhan321@gmail.com
+Please reach out with any questions or opportunities-->Looking forward to connecting!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
