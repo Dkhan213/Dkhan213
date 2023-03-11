@@ -42,7 +42,7 @@ Please reach out with any questions or opportunities-->Looking forward to connec
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/aws-dynamodb.svg" title="DynamoDb" alt="DynamoDb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/aws-lambda.svg" title="Lambda" alt="Lambda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/aws-s3.svg" title="S3" alt="S3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/aws-api-gateway.svg" title="API Gateway" alt="API Gateway" width="40" height="40"/>&nbsp;
   <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/aws-iam.svg" title="IAM" alt="IAM" width="40" height="40"/>&nbsp;
