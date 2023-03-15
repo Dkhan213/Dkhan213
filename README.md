@@ -1,20 +1,19 @@
 <div id="header" align="center">
-  <img src="_B7A9161.png" width="150"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/-danielkhan/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <h1>
+  </div>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="450" height="300"/>
+  <h1>
       Hi There
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
       I'm Daniel!
     </h1>
-  </div>
+    <a href="https://www.linkedin.com/in/-danielkhan/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="700" height="500"/>
-</div>
 
 ---
 
