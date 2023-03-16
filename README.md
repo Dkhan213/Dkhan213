@@ -18,9 +18,9 @@
 
 ### :man_technologist: About Me :
 
-Hi there! My name is Daniel Khan and I am a highly motivated Backend Developer. I enjoy making connections: whether they are from different disciplines, people from different teams and cultures, or applications from different industries. I have strong technical skills, a ambitious work ethic, and a professional background in engineering, problem solving, and customer service. I have always considered myself a jack of all trades. I love learning about novel concepts and new and better ways of doing things.
+Hi there! My name is Daniel Khan and I am a highly motivated Backend Software Developer. I enjoy making connections: whether they are between different disciplines, people from different teams and cultures, or applications from different industries. I have strong technical skills, an ambitious work ethic, and a professional background in engineering, collaborative problem solving, and customer service. I love learning about novel concepts and new and better ways of doing things.
 
-I have a passion for working to improve business optimization and efficiency. I also take pride in my ability to communicated complex ideas to non-technical stakeholders. I am able to quickly translate across verticals to produce solutions and value.
+I have a passion for working to improve business optimization and efficiency. I also take pride in my ability to communicate complex ideas to non-technical stakeholders. I am able to quickly translate across verticals to produce solutions and value.
 
   - 💬 Ask me about anything related to The Lord of the Rings and you will be my best friend.
   - ⚡ Fun fact: I love to travel and plan.
