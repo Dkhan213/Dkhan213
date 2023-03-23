@@ -22,7 +22,7 @@ Hi there! My name is Daniel Khan and I am a highly motivated Backend Software De
 
 I have a passion for working to improve business optimization and efficiency. I also take pride in my ability to communicate complex ideas to non-technical stakeholders. I am able to quickly translate across verticals to produce solutions and value.
 
-  - 💬 Ask me about anything related to The Lord of the Rings or the latest trends in technology, and you will be my best friend.
+  - 💬 Ask me about anything and everything related to The Lord of the Rings or the latest trends in technology, and you will be my best friend.
   - ⚡ Fun fact: I love to travel and plan.
   - 📫 How to reach me: 
       - Email: dkhan321@gmail.com 
