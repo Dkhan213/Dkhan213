@@ -20,17 +20,17 @@
 
 ### :man_technologist: About Me :
 
-Hi there! My name is Daniel Khan and I am a highly motivated Backend Software Developer. I enjoy making connections: whether they are between different disciplines, people from different teams and cultures, or applications from different industries. I have strong technical skills, an ambitious work ethic, and a professional background in engineering, collaborative problem solving, and customer service. I love learning about novel concepts and new and better ways of doing things.
+Hi there! I'm a Computer & Electrical Engineering student at the University of Houston, driven by a fascination with the logic that bridges the physical and digital worlds. My passion lies in designing intelligent systems where hardware and software converge, and I am relentlessly curious about how a line of code can translate into real-world action.
 
-I have a passion for working to improve business optimization and efficiency. I also take pride in my ability to communicate complex ideas to non-technical stakeholders. I am able to quickly translate across verticals to produce solutions and value.
+My academic and project work is centered on the core principles of embedded systems, automation, and control theory. I thrive on the challenge of applying languages like Python and C++ to program microcontrollers and develop robust firmware for real-time operating systems (RTOS). Whether it's designing a control loop in MATLAB or building a custom IoT network, my goal is always to create efficient, reliable solutions that bring complex machinery to life.
+
+What sets me apart is my ability to connect the dots. My professional background in leadership and problem-solving has taught me that the best technical solution is only effective if it's communicated clearly. I excel at translating complex engineering concepts for non-technical stakeholders and thrive in collaborative environments where I can bridge the gap between different teams and disciplines.
 
   - 💬 Ask me about anything and everything related to The Lord of the Rings or the latest trends in technology, and you will be my best friend.
   - ⚡ Fun fact: I love to travel and plan.
   - 📫 How to reach me: 
       - Email: dkhan321@gmail.com 
       - LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/-danielkhan/)
-
-Please reach out with any questions or opportunities-->Looking forward to connecting!
 
 ---
 
